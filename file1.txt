@@ -2,3 +2,4 @@ text file
 sdfjdlfjk
 Making changes to file1.txt
 Stashing file1
+Stashing changes for tracked files
