@@ -1,3 +1,4 @@
 text file
 sdfjdlfjk
 Making changes to file1.txt
+Stashing file1
